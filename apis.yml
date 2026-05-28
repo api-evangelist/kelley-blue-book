@@ -1,0 +1,32 @@
+aid: kelley-blue-book
+name: Kelley Blue Book
+description: "Vehicle info, pricing, configuration, plus much more"
+url: http://developer.kbb.com/#!/data/1-Default
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Vehicle"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Vehicle
+  - Public APIs
+apis:
+  - name: Kelley Blue Book
+    description: "Vehicle info, pricing, configuration, plus much more"
+    humanURL: http://developer.kbb.com/#!/data/1-Default
+    baseURL: http://developer.kbb.com/#!/data/1-Default
+    tags:
+      - Vehicle
+    properties:
+      - type: Documentation
+        url: http://developer.kbb.com/#!/data/1-Default
+common:
+  - type: Website
+    url: http://developer.kbb.com/#!/data/1-Default
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
