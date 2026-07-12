@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://developer.kbb.com/#!/data/1-Default
 common:
+  - type: DomainSecurity
+    url: security/kelley-blue-book-domain-security.yml
   - type: Website
     url: http://developer.kbb.com/#!/data/1-Default
   - type: PublicAPIsListing
