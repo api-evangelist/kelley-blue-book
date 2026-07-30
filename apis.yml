@@ -1,4 +1,16 @@
 aid: kelley-blue-book
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kelley-blue-book.png
 name: Kelley Blue Book
 description: "Vehicle info, pricing, configuration, plus much more"
 url: http://developer.kbb.com/#!/data/1-Default
