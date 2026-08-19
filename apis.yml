@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kelley-blu
 name: Kelley Blue Book
 description: "Vehicle info, pricing, configuration, plus much more"
 url: http://developer.kbb.com/#!/data/1-Default
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
